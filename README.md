@@ -10,6 +10,10 @@ This repository includes our report of the paper: AutoRec: Autoencoders Meet Col
 1. The report document with our analysis and innovations (pdf)
 2. Two similar notebooks one with EDA and experiments on MovieLens-100K and the other on MovieLens-1M
 
+## Results
+<img src="results.jpg" alt="Model performance comparison" width="400"/>
+
+
 ## Running the notebooks
 
 ### For the 100K notebook
