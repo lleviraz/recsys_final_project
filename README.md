@@ -8,7 +8,7 @@ This repository includes our report of the paper: AutoRec: Autoencoders Meet Col
 1. The report document with our analysis and innovations (pdf)
 2. Two similar notebooks one with EDA and experiments on MovieLens-100K and the other on MovieLens-1M
 
-![AutoRec](autorec.jpg?raw=true "AutoRec Architechture")
+![AutoRec](autorec.jpg?raw=true "AutoRec Architechture" =250x)
 
 ## Running the notebooks
 
