@@ -10,13 +10,11 @@ This repository includes our report of the paper: AutoRec: Autoencoders Meet Col
 
 ## Running the notebooks
 
-**For the 100K notebook**
-=========================
+### For the 100K notebook
 1. Download the MovieLens 100K dataset https://grouplens.org/datasets/movielens/100k/
 2. Extract it to a "datasets/ml-100k" folder next to the notebook (5 folds already provided as part of the dataset archive)
 
-**For the ML-1M notebook**
-==========================
+### For the ML-1M notebook
 1. Download the MovieLens 1M dataset https://grouplens.org/datasets/movielens/1m/
 2. Extract it to a "datasets/ml-1m" folder next to the notebook
 3. Get a copy of the "split_rating.sh" (the version we used is from here: https://github.com/tylerwowen/movielens/blob/master/split_ratings.sh), and run it using "bash" in the "datasets" folder to create the 5 folds 
