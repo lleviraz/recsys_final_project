@@ -11,10 +11,14 @@ This repository includes our report of the paper: AutoRec: Autoencoders Meet Col
 2. Two similar notebooks one with EDA and experiments on MovieLens-100K and the other on MovieLens-1M
 
 ## Results
-<img src="results.jpg" alt="Model performance comparison" width="400"/>
-
+Detailed results can be found in the report under:
+* "Reproducing the results from the AutoRec paper"
+* "Experiments and Evaluation of the suggested improvements"
 
 ## Running the notebooks
+* GPU is highly recommended
+* Each notebook is already configured with the best default hyperparameters for the dataset.
+* Hyperparameters values and full details can be found in the report under "Experiments and Evaluation of the suggested improvements"--> "Experiments"
 
 ### For the 100K notebook
 1. Download the MovieLens 100K dataset https://grouplens.org/datasets/movielens/100k/
